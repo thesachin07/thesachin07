@@ -94,18 +94,7 @@
 
 ---
 
-## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/thesachin07/Snitch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thesachin07&repo=snitch&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/thesachin07/Dealforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thesachin07&repo=Dealforge&theme=radical&hide_border=true" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/thesachin07/Stello"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thesachin07&repo=Stello&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/thesachin07/Faceplus-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thesachin07&repo=Faceplus-AI&theme=radical&hide_border=true" /></a>
-</p>
-
----
 
 ## ⚡ Recent Activity
 
