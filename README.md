@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sachin+Kumar+%F0%9F%91%8B;Frontend-Leaning+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+clean%2C+fast%2C+user-focused+apps" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=200&section=header&text=Sachin%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend-Leaning%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;I+turn+coffee+%E2%98%95+into+clean+UI;Shipping+fast%2C+breaking+nothing+(mostly)" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sachin--portfolio--jet.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin-portfolio-jet.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=thesachin07&style=for-the-badge&color=blueviolet)](https://github.com/thesachin07)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 ## 🚀 About Me
 
@@ -19,6 +22,7 @@
 | 🗄️ **Database** | MongoDB |
 | 🎨 **Styling** | TailwindCSS · HTML |
 | 💬 **Open to** | Freelance · Full-time roles · Collaboration |
+| ⚡ **Fun fact** | I debug faster than I make coffee (barely) |
 
 ---
 
@@ -40,7 +44,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesachin07&count_private=true&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thesachin07&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesachin07&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
@@ -52,48 +56,67 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thesachin07&theme=react-dark&hide_border=true" />
 </p>
 
+### 🏆 Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thesachin07&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thesachin07/thesachin07/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thesachin07/thesachin07/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/thesachin07/thesachin07/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+*(Animation goes live automatically after the first run of the `snake.yml` workflow — see setup notes below.)*
+
 ---
 
 ## ⏱️ Coding Activity (WakaTime)
 
-<!--
-  To make this section live: install the WakaTime GitHub Action
-  (https://github.com/athul/waka-readme) and it will auto-update this block.
--->
-
-<p align="center">
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="Total time coded" />
-</p>
-
+<!--START_SECTION:waka-->
 ```text
 🌞 Morning     ░░░░░░░░░░░░░░░░░░░░░░░░░   --%
 🌆 Daytime     ░░░░░░░░░░░░░░░░░░░░░░░░░   --%
 🌃 Evening     ░░░░░░░░░░░░░░░░░░░░░░░░░   --%
 🌙 Night       ░░░░░░░░░░░░░░░░░░░░░░░░░   --%
 ```
-*(Connect WakaTime to auto-populate this section — see comment above.)*
+<!--END_SECTION:waka-->
+
+*(Auto-fills once the `waka-readme.yml` action runs — see setup notes below.)*
 
 ---
 
 ## 📌 Featured Projects
 
-- 🔗 [**Snitch**](https://github.com/thesachin07/Snitch)
-- 🔗 [**Dealforge**](https://github.com/thesachin07/Dealforge)
-- 🔗 [**Stello**](https://github.com/thesachin07/Stello)
-- 🔗 [**Faceplus AI**](https://github.com/thesachin07/Faceplus-AI)
+<p align="center">
+  <a href="https://github.com/thesachin07/Snitch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thesachin07&repo=Snitch&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/thesachin07/Dealforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thesachin07&repo=Dealforge&theme=radical&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/thesachin07/Stello"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thesachin07&repo=Stello&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/thesachin07/Faceplus-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thesachin07&repo=Faceplus-AI&theme=radical&hide_border=true" /></a>
+</p>
 
 ---
 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-<!--
-  Auto-populate this with the "github-activity-readme" GitHub Action:
-  https://github.com/jamesgeorge007/github-activity-readme
--->
+<!-- auto-filled by github-activity-readme.yml -->
 <!--END_SECTION:activity-->
 
 ---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
+<div align="center">
 
 ### Let's build something great together
 
@@ -102,8 +125,27 @@
   <a href="https://sachin-portfolio-jet.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-orange?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thesachin07&style=flat-square&color=blueviolet" alt="Profile Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=100&section=footer" width="100%" />
 
 </div>
+
+<details>
+<summary>⚙️ Setup notes (click to expand — delete this section once you're done)</summary>
+
+**1. Repo name:** this file must live in a public repo named exactly `thesachin07` (matches your username) for GitHub to show it on your profile.
+
+**2. Workflow permissions:** Settings → Actions → General → Workflow permissions → "Read and write permissions".
+
+**3. Snake animation:** no secrets needed. Runs daily via cron, or trigger manually from the Actions tab. Publishes to an `output` branch that this README already points to.
+
+**4. WakaTime stats:**
+- Sign up free at wakatime.com and install the editor plugin (tracks your coding time).
+- Grab your API key from wakatime.com/settings/api-key.
+- Add repo secrets: `WAKATIME_API_KEY` (the key) and `GH_TOKEN` (a personal access token with `repo` scope).
+- Replace `YOUR_WAKATIME_USER_ID` in the badge URL above with your real WakaTime user ID.
+
+**5. Recent activity feed:** reuses the `GH_TOKEN` secret from step 4, nothing else needed.
+
+**6. First run:** go to the Actions tab → run each workflow manually once so you don't wait on the cron schedule.
+
+</details>
