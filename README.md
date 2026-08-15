@@ -73,6 +73,11 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/thesachin07/thesachin07/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thesachin07/thesachin07/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thesachin07/thesachin07/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/thesachin07/thesachin07/output/github-snake.svg">
+</picture>
 
 *(Animation goes live automatically after the first run of the `snake.yml` workflow — see setup notes below.)*
 
