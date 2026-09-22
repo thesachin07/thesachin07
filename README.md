@@ -80,29 +80,6 @@
 
 ---
 
-## ⏱️ Coding Activity (WakaTime)
-
-
-```text
-🌞 Morning     ░░░░░░░░░░░░░░░░░░░░░░░░░   --%
-🌆 Daytime     ░░░░░░░░░░░░░░░░░░░░░░░░░   --%
-🌃 Evening     ░░░░░░░░░░░░░░░░░░░░░░░░░   --%
-🌙 Night       ░░░░░░░░░░░░░░░░░░░░░░░░░   --%
-```
-<!--END_SECTION:waka-->
-
----
-
-
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- auto-filled by github-activity-readme.yml -->
-<!--END_SECTION:activity-->
-
----
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 <div align="center">
