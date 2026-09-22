@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=200&section=header&text=Sachin%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend-Leaning%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;I+turn+coffee+%E2%98%95+into+clean+UI;Shipping+fast%2C+breaking+nothing+(mostly)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Shipping+fast%2C+breaking+nothing" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sachin--portfolio--jet.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin-portfolio-jet.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thesachin07/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin070502@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=thesachin07&style=for-the-badge&color=blueviolet)](https://github.com/thesachin07)
 
 </div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 ## 🚀 About Me
@@ -22,7 +22,6 @@
 | 🗄️ **Database** | MongoDB |
 | 🎨 **Styling** | TailwindCSS · HTML |
 | 💬 **Open to** | Freelance · Full-time roles · Collaboration |
-| ⚡ **Fun fact** | I debug faster than I make coffee (barely) |
 
 ---
 
